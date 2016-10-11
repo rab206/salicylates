@@ -1,0 +1,13 @@
+{
+  "name": "allergy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-vulcanize": "^6.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

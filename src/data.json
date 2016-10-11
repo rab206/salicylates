@@ -1,0 +1,2090 @@
+[
+ {
+   "food": "Banana",
+   "category": "Fruits",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Canned Pear****",
+   "category": "Fruits",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Lime",
+   "category": "Fruits",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Pear (ripe and peeled)",
+   "category": "Fruits",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Apple – golden delicious",
+   "category": "Fruits",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Nashi Pears",
+   "category": "Fruits",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Papaya",
+   "category": "Fruits",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Paw Paw",
+   "category": "Fruits",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Tamarillo",
+   "category": "Fruits",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Apple – red delicious",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Canned or dried Fig",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Canned pear****",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Custard apple",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Lemon",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Loquat",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Mango",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Passion fruit",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Pear (w/ peel)",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Persimmon",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Pomegranate",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Rhubarb",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Fresh Tomato",
+   "category": "Fruits",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Apple – all other varieties",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Canned Morello cherries",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Cantaloupe",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Grapefruit",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Kiwi fruit",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Lychee",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Mandarin",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Melons",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Mulberry",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Nectarine",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Peach",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Sugar banana",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Watermelon",
+   "category": "Fruits",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "All dried Fruits",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Apricot",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Avocado",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Blackberry",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Blackcurrant",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Blueberry",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Boysenberry",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Cherries – all other kinds",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Cranberry",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Currant",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Date",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Grape",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Guava",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Loganberry",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Orange",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Pineapple",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Plum",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Prune",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Raisin",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Raspberry",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Redcurrant",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Rock melon",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Strawberry",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Sultana",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Tangelo",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Tangerine",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Tomato",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Tomato Products",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Youngberry",
+   "category": "Fruits",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Bamboo Shoots",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Beans (dried – not borlotti)",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Cabbage (green or white)",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Celery",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Green Split peas",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Lentils (brown)",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Lentils (red)",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Lettuce (iceberg)",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Peas (dried)",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Potato (old/white and peeled)",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Swede",
+   "category": "Vegetables",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Bean Sprouts",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Borlotti beans",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Brussels sprouts",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Cabbage – red",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Cauliflower",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Chickpeas",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Chives",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Choko",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Fresh Asparagus",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Green Beans",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Green Peas",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Leek",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Mung bean sprouts",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Onion",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Potato (white with peel)",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Shallots",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Yellow split peas",
+   "category": "Vegetables",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Asparagus – tinned",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Aubergine – peeled",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Beetroot",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Black Olives",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Canned Asparagus",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Carrot",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Fresh Tomato",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Frozen Spinach",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Lettuce (other than iceberg)",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Marrow",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Mushrooms",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Parsnips",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Potato (new and red Pontiac)",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Pumpkin",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Snow Peas",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Sprout",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Sweet corn",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Turnip",
+   "category": "Vegetables",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Alfalfa sprouts",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Artichoke",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Aubergine with peel",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Broad bean",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Broccoli",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Canned black olive",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Cucumber",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Cucumber",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Eggplant",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Fresh Spinach",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Okra",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Radish",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Sweet Potato",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Water chestnut",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Watercress",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Zucchini",
+   "category": "Vegetables",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Canned Green Olives",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Capsicum",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Champignon",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Chicory",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Chili peppers",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Courgette",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Endive",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Gherkin",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Hot pepper",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Peppers",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Radish",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Tomato",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Tomato Products",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Water Chestnut",
+   "category": "Vegetables",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Poppy seed",
+   "category": "Nuts & Seeds",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Cashews",
+   "category": "Nuts & Seeds",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Hazelnuts",
+   "category": "Nuts & Seeds",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Pecan",
+   "category": "Nuts & Seeds",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Sunflower seeds",
+   "category": "Nuts & Seeds",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Desiccated coconut",
+   "category": "Nuts & Seeds",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Peanut Butter",
+   "category": "Nuts & Seeds",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Pumpkin seeds",
+   "category": "Nuts & Seeds",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Sesame seeds",
+   "category": "Nuts & Seeds",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Walnuts",
+   "category": "Nuts & Seeds",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Brazil nuts",
+   "category": "Nuts & Seeds",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Macadamia nuts",
+   "category": "Nuts & Seeds",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Pine nuts",
+   "category": "Nuts & Seeds",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Pistachio",
+   "category": "Nuts & Seeds",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Almond",
+   "category": "Nuts & Seeds",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Peanuts with skins on",
+   "category": "Nuts & Seeds",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Water chestnut",
+   "category": "Nuts & Seeds",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Carob",
+   "category": "Sweets",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Cocoa",
+   "category": "Sweets",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Homemade caramel****",
+   "category": "Sweets",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Maple Syrup",
+   "category": "Sweets",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "White Sugar",
+   "category": "Sweets",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Caramel****",
+   "category": "Sweets",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Golden Syrup",
+   "category": "Sweets",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Malt Extract",
+   "category": "Sweets",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Molasses",
+   "category": "Sweets",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Raw Sugar",
+   "category": "Sweets",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Chewing gum",
+   "category": "Sweets",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Fruit flavors",
+   "category": "Sweets",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Honey",
+   "category": "Sweets",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Honey flavors",
+   "category": "Sweets",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Jam (except pear, preferably homemade)",
+   "category": "Sweets",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Liquorices",
+   "category": "Sweets",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Mint flavored sweets",
+   "category": "Sweets",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Peppermints",
+   "category": "Sweets",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Golden Syrup",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Malt Vinegar",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Maple Syrup (pure)",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Salt",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Apple Butter (only if homemade from acceptable varieties of apples)",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Chives",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Fennel – dried",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Garlic",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Parsley (except Chinese parsley also known as coriander)",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Saffron",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Shallots",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Soy Sauce (if free of spices)",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Fresh Coriander Leaves (also known as Chinese parsley)",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Horseradish",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Mayonnaise",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "All Spice",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Bay leaf",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Caraway",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Cardamom",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Cinnamon",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Cloves",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Coriander",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Ginger",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Mixed herbs",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Mustard",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Pimiento",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Aniseed",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Basil",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Black pepper",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Cayenne",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Celery powder",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Chili flakes",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Chili Powder",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Cider Vinegar",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Commercial Gravies & Sauces",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Cumin",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Curry",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Dill",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Fenugreek",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Fish, meat, and tomato pastes",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Garam masala",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Ginger",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Honey",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Jam/Jelly (all commercial varieties – you can make your own from acceptable ingredients)",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Liquorices",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Mace",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Marmite",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Mint",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Mustard",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Nutmeg",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Oregano",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Paprika",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Peppermint",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Rosemary",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Sage",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Tabasco",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Tarragon",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Thyme",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Turmeric",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Vegemite and other Yeast Extracts****",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "White pepper",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "White Vinegar",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Wine Vinegar",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Worcester Sauce",
+   "category": "Seasonings, Condiments, Sauces & Toppings",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Butter",
+   "category": "Fats & Oils",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Canola Oil",
+   "category": "Fats & Oils",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Margarine****",
+   "category": "Fats & Oils",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Safflower Oil",
+   "category": "Fats & Oils",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Soy Oil",
+   "category": "Fats & Oils",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Sunflower Oil",
+   "category": "Fats & Oils",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Ghee",
+   "category": "Fats & Oils",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Almond Oil",
+   "category": "Fats & Oils",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Corn Oil",
+   "category": "Fats & Oils",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Peanut Oil",
+   "category": "Fats & Oils",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Copha",
+   "category": "Fats & Oils",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Sesame oil",
+   "category": "Fats & Oils",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Walnut Oil",
+   "category": "Fats & Oils",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Coconut Oil",
+   "category": "Fats & Oils",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Olive Oil",
+   "category": "Fats & Oils",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "BarleyBuckwheat",
+   "category": "Grains",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Millet",
+   "category": "Grains",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Oats (plain)",
+   "category": "Grains",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Rice",
+   "category": "Grains",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Rice cereals (plain)",
+   "category": "Grains",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Rye",
+   "category": "Grains",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Wheat",
+   "category": "Grains",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Breakfast cereals that include fruit, nuts, honey or coconutCorn/maize cereals",
+   "category": "Grains",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Cornmeal",
+   "category": "Grains",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Flavored breakfast cereals",
+   "category": "Grains",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Maize",
+   "category": "Grains",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Polenta",
+   "category": "Grains",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Beef",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Chicken",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Eggs",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Fish",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Lamb",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Organ meats",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Rabbit",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Sausage casing",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Scallops",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Tripe",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Veal",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Etc etc.****",
+   "category": "Meat",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Liver",
+   "category": "Meat",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Prawns",
+   "category": "Meat",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Shellfish",
+   "category": "Meat",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Fish canned in an unacceptable oil and/or with seasonings added",
+   "category": "Meat",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Gravy made from prepared mixes (i.e. stock cubes/bouillon/meat extracts/etc.)",
+   "category": "Meat",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Processed luncheon meats (many are seasoned and thus contain salicylates)",
+   "category": "Meat",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Seasoned meats (e.g. salami, sausages, frankfurters, and hotdogs)",
+   "category": "Meat",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Butter",
+   "category": "Dairy & Soy Products",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Cream",
+   "category": "Dairy & Soy Products",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Cheese (not blue vein)",
+   "category": "Dairy & Soy Products",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Milk",
+   "category": "Dairy & Soy Products",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Yoghurt (natural only)",
+   "category": "Dairy & Soy Products",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Ice Cream ****",
+   "category": "Dairy & Soy Products",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Rice Milk",
+   "category": "Dairy & Soy Products",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Goat Milk",
+   "category": "Dairy & Soy Products",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Soy Milk ****",
+   "category": "Dairy & Soy Products",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Tofu",
+   "category": "Dairy & Soy Products",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Blue vein Cheese",
+   "category": "Dairy & Soy Products",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Arrowroot",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Corn starch (also known as corn flour in Australia)",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Golden Syrup",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Malt",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Malt extract",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Poppy seeds",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Rice Flour",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Rye Flour",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Sago",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Soy Flour",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Sugar",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Sugar (brown, castor, granulated, icing, powdered)",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Tapioca",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Wheat Flour",
+   "category": "Baking Supplies",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Sesame seeds",
+   "category": "Baking Supplies",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Corn Syrup",
+   "category": "Baking Supplies",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Plain potato chips (read the ingredients list)",
+   "category": "Commercial Snacks",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Apple chips (only if homemade from acceptable varieties of apples)",
+   "category": "Commercial Snacks",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Popcorn",
+   "category": "Commercial Snacks",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Popping corn",
+   "category": "Commercial Snacks",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Chewing gum (all flavors)",
+   "category": "Commercial Snacks",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Fruit flavored candy, gelato, ices, popsicles, sherbet, sorbet, and sweets",
+   "category": "Commercial Snacks",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Licorice/liquorices (all flavors)",
+   "category": "Commercial Snacks",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Mint/peppermint/wintergreen flavored candy/sweets",
+   "category": "Commercial Snacks",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Pickles (and anything pickled)",
+   "category": "Commercial Snacks",
+   "concentration": "Very High",
+   "concentrationIndex": 5
+ },
+ {
+   "food": "Decaffeinated Coffee",
+   "category": "Beverages",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "milk (goat and cow)",
+   "category": "Beverages",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Ovaltine",
+   "category": "Beverages",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "homemade pear juice",
+   "category": "Beverages",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "soy milk",
+   "category": "Beverages",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "rice milk",
+   "category": "Beverages",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "water",
+   "category": "Beverages",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Dandelion coffee",
+   "category": "Beverages",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Store bought pear juice",
+   "category": "Beverages",
+   "concentration": "Low",
+   "concentrationIndex": 2
+ },
+ {
+   "food": "Coco cola",
+   "category": "Beverages",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Rose hip tea",
+   "category": "Beverages",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Rose hip syrup",
+   "category": "Beverages",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "regular coffee",
+   "category": "Beverages",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "all teas",
+   "category": "Beverages",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Cordials and fruit flavored drinks",
+   "category": "Beverages",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "fruit and vegetable juices",
+   "category": "Beverages",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Gin",
+   "category": "Alcohol",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Whiskey",
+   "category": "Alcohol",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Vodka",
+   "category": "Alcohol",
+   "concentration": "Negligible",
+   "concentrationIndex": 1
+ },
+ {
+   "food": "Cider",
+   "category": "Alcohol",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Beer",
+   "category": "Alcohol",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Sherry",
+   "category": "Alcohol",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Brandy",
+   "category": "Alcohol",
+   "concentration": "Moderate",
+   "concentrationIndex": 3
+ },
+ {
+   "food": "Liquor",
+   "category": "Alcohol",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Port",
+   "category": "Alcohol",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Wine",
+   "category": "Alcohol",
+   "concentration": "High",
+   "concentrationIndex": 4
+ },
+ {
+   "food": "Rum",
+   "category": "Alcohol",
+   "concentration": "High",
+   "concentrationIndex": 4
+ }
+]
