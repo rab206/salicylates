@@ -1,5 +1,6 @@
 const gulp = require('gulp');
 const vulcanize = require('gulp-vulcanize');
+const gulpServiceWorker = require('gulp-serviceworker');
  
 gulp.task('vulcanize', () =>
     gulp.src('index.html')
@@ -15,4 +16,11 @@ gulp.task('package', () => {
         .pipe(gulp.dest('../dest'));
 });
 
-gulp.task('default', ['package','vulcanize']);
+gulp.task('generate-service-worker', () => {
+  return gulp.src(['../dist/*'])
+  .pipe(gulpServiceWorker({
+    rootDir: '../dist/',
+  }));
+});
+
+gulp.task('default', ['package','vulcanize','generate-service-worker']);
